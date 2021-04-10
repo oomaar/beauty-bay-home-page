@@ -1,15 +1,17 @@
 import styled from "styled-components";
-import { Brand, Navbar } from "./components";
+import { HeaderContainer } from "./containers";
+
 
 const App = () => {
   return (
     <Application>
-      <Brand />
-      <Navbar />
+      <HeaderContainer />
     </Application>
   );
 }
 
 export default App;
 
-const Application = styled.div``;
+const Application = styled.div`
+    background: linear-gradient(to right, #fff 50%, #ff0 50%);
+`;
