@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "img": "/images/shop/shop-1.jpg",
+        "title": "INDULGE IN LUXURY",
+        "subtitle": "Introducing Sample Beauty's Plush Palette"
+    },
+    {
+        "id": 2,
+        "img": "/images/shop/shop-2.jpg",
+        "title": "IT'S TIME TO GLOW",
+        "subtitle": "Take 20% off selected tanning and bronzing for that summer feeling skin"
+    },
+    {
+        "id": 3,
+        "img": "/images/shop/shop-3.jpg",
+        "title": "SAY YES TO...",
+        "subtitle": "20% off selected By BEAUTY BAY"
+    },
+    {
+        "id": 4,
+        "img": "/images/shop/shop-4.jpg",
+        "title": "ANASTASIA BEVERLY HILLS",
+        "subtitle": "The ultimate brow tool"
+    },
+    {
+        "id": 5,
+        "img": "/images/shop/shop-5.jpg",
+        "title": "YOUR LATEST OBSESSION",
+        "subtitle": "You're not going to want to miss the Melt Cosmetics Mary Jane collection"
+    },
+    {
+        "id": 6,
+        "img": "/images/shop/shop-6.jpg",
+        "title": "JEFFREE STAR COSMETICS",
+        "subtitle": "Your loungewear covered"
+    },
+    {
+        "id": 7,
+        "img": "/images/shop/shop-7.jpg",
+        "title": "THE ULTIMATE THROWBACKS",
+        "subtitle": "Get your hands on the new BH Cosmetics Remix Dance Collection"
+    },
+    {
+        "id": 8,
+        "img": "/images/shop/shop-8.jpg",
+        "title": "FRIENDS X REVOLUTION",
+        "subtitle": "We're not on a break - round 3 is here"
+    },
+    {
+        "id": 9,
+        "img": "/images/shop/shop-9.jpg",
+        "title": "WORTH OVER £16!",
+        "subtitle": "Get a FREE Exclusive GLAMGLOW Kit when you spend £25 on the brand"
+    },
+    {
+        "id": 10,
+        "img": "/images/shop/shop-10.jpg",
+        "title": "GET SKIN SMART",
+        "subtitle": "Get to know your skin with Foreo's LUNA Play Smart 2"
+    }
+]
