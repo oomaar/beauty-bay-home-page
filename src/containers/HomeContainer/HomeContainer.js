@@ -9,6 +9,8 @@ import {
     RightContainer,
     RightSubContainer,
     RightTitle,
+    ButtonsContainer,
+    Button,
 } from "./styledHomeContainer";
 
 const HomeContainer = () => {
@@ -25,6 +27,10 @@ const HomeContainer = () => {
                             subtitle={product.subtitle}
                         />
                     ))}
+                    <ButtonsContainer>
+                        <Button>What's New</Button>
+                        <Button>Makeup</Button>
+                    </ButtonsContainer>
                 </LeftSubContainer>
             </LeftContainer>
             <RightContainer>
@@ -38,6 +44,10 @@ const HomeContainer = () => {
                             subtitle={product.subtitle}
                         />
                     ))}
+                    <ButtonsContainer>
+                        <Button>Advice</Button>
+                        <Button>Trends</Button>
+                    </ButtonsContainer>
                 </RightSubContainer>
             </RightContainer>
         </Container>
