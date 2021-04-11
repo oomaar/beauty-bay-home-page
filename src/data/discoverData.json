@@ -2,61 +2,61 @@
     {
         "id": 1,
         "img": "/images/discover/discover-1.jpg",
-        "title": "INDULGE IN LUXURY",
-        "subtitle": "Introducing Sample Beauty's Plush Palette"
+        "title": "SUMMER SUN",
+        "subtitle": "Top up your tan"
     },
     {
         "id": 2,
         "img": "/images/discover/discover-2.jpg",
-        "title": "IT'S TIME TO GLOW",
-        "subtitle": "Take 20% off selected tanning and bronzing for that summer feeling skin"
+        "title": "EDITED",
+        "subtitle": "This is how to use Gua Sha"
     },
     {
         "id": 3,
         "img": "/images/discover/discover-3.jpg",
-        "title": "SAY YES TO...",
-        "subtitle": "20% off selected By BEAUTY BAY"
+        "title": "PRESS PLAY",
+        "subtitle": "Fresh start skincare"
     },
     {
         "id": 4,
         "img": "/images/discover/discover-4.jpg",
-        "title": "ANASTASIA BEVERLY HILLS",
-        "subtitle": "The ultimate brow tool"
+        "title": "EDITED",
+        "subtitle": "How To Transition Your Skincare Routine From Winter To Spring"
     },
     {
         "id": 5,
         "img": "/images/discover/discover-5.jpg",
-        "title": "YOUR LATEST OBSESSION",
-        "subtitle": "You're not going to want to miss the Melt Cosmetics Mary Jane collection"
+        "title": "#SWIPEBRIGHT TIKTOK CHALLENGE",
+        "subtitle": "Get your hands on our iconic Bright 42 Colour Palette"
     },
     {
         "id": 6,
         "img": "/images/discover/discover-6.jpg",
-        "title": "JEFFREE STAR COSMETICS",
-        "subtitle": "Your loungewear covered"
+        "title": "SPRING IS COMMING",
+        "subtitle": "Get your glow on"
     },
     {
         "id": 7,
         "img": "/images/discover/discover-7.jpg",
-        "title": "THE ULTIMATE THROWBACKS",
-        "subtitle": "Get your hands on the new BH Cosmetics Remix Dance Collection"
+        "title": "EDITED",
+        "subtitle": "8 Reasons Why You Need The New Clinique Moisture Surge Hydrator"
     },
     {
         "id": 8,
         "img": "/images/discover/discover-8.jpg",
-        "title": "FRIENDS X REVOLUTION",
-        "subtitle": "We're not on a break - round 3 is here"
+        "title": "TAKE YOUR VITAMINS",
+        "subtitle": "It's time to level up your skincare routine"
     },
     {
         "id": 9,
         "img": "/images/discover/discover-9.jpg",
-        "title": "WORTH OVER £16!",
-        "subtitle": "Get a FREE Exclusive GLAMGLOW Kit when you spend £25 on the brand"
+        "title": "EDITED",
+        "subtitle": "Meet our TikTok Famous Products"
     },
     {
         "id": 10,
         "img": "/images/discover/discover-10.jpg",
-        "title": "GET SKIN SMART",
-        "subtitle": "Get to know your skin with Foreo's LUNA Play Smart 2"
+        "title": "AM - PM SKINCARE",
+        "subtitle": "Skincare for around the clock"
     }
 ]
