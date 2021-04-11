@@ -2,11 +2,24 @@ import styled from "styled-components/macro";
 
 export const Container = styled.div`
     display: flex;
+    justify-content: center;
+`;
+
+export const SubContainer = styled.div`
+    display: flex;
     width: 75%;
     margin: auto;
     padding: 20px 10px;
     justify-content: space-between;
     align-items: center;
+
+    @media (max-width: 1680px) {
+        width: 85%;
+    }
+
+    @media (max-width: 1280px) {
+        display: none;
+    }
 `;
 
 export const LogoContainer = styled.div` cursor: pointer; `;
@@ -36,4 +49,23 @@ export const IconsContainer = styled.div`
 export const Icon = styled.div`
     margin: 0 10px;
     cursor: pointer;
+`;
+
+export const ResponsiveContainer = styled.div`
+    border: 1px solid #f00;
+    display: none;
+    padding: 20px 10px;
+    /* justify-content: space-between; */
+    flex-direction: column;
+    width: 100%;
+
+    @media (max-width: 1280px) {
+        display: flex;
+    }
+`;
+
+export const ResponsiveSubContainer = styled.div`
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
 `;

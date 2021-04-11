@@ -5,6 +5,14 @@ export const Container = styled.nav`
     display: flex;
     margin: auto;
     justify-content: space-between;
+
+    @media (max-width: 1680px) {
+        width: 85%;
+    }
+
+    @media (max-width: 1280px) {
+        display: none;
+    }
 `;
 
 export const LinkContainer = styled.div` padding: 0 10px; `;
