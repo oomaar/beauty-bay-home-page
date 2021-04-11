@@ -1,6 +1,7 @@
 import SearchIcon from '@material-ui/icons/Search';
 import FormatAlignLeftIcon from '@material-ui/icons/FormatAlignLeft';
 import { useState } from 'react';
+import { Sidebar } from "..";
 import {
     Logo,
     Edited,
@@ -24,6 +25,7 @@ import {
 
 const Brand = () => {
     const [search, setSearch] = useState(false);
+    const [sideBar, setSideBar] = useState(false);
 
     return (
         <Container>
@@ -58,10 +60,11 @@ const Brand = () => {
                 </IconsContainer>
             </SubContainer>
             <ResponsiveContainer>
+                {sideBar && <Sidebar setSideBar={setSideBar} />}
                 <ResponsiveSubContainer>
                     <IconsContainer>
                         <Icon>
-                            <FormatAlignLeftIcon />
+                            <FormatAlignLeftIcon onClick={() => setSideBar(true)} />
                         </Icon>
                         <Icon>
                             <Account />
