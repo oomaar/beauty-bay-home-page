@@ -33,6 +33,10 @@ export const SubContainer = styled.div`
             background: rgba(0, 0, 0, 0.1);
         }
     }
+
+    @media (max-width: 1280px) {
+        width: 100vw;
+    }
 `;
 
 export const LinksContainer = styled.div`

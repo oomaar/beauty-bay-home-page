@@ -52,7 +52,6 @@ export const Icon = styled.div`
 `;
 
 export const ResponsiveContainer = styled.div`
-    border: 1px solid #f00;
     display: none;
     padding: 20px 10px;
     /* justify-content: space-between; */

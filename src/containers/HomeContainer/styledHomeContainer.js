@@ -26,6 +26,10 @@ export const LeftContainer = styled.div`
 export const LeftTitle = styled.h1`
     font-size: 50px;
     text-align: center;
+
+    @media (max-width: 800px) {
+        font-size: 35px;
+    }
 `;
 
 export const LeftSubContainer = styled.div``;
@@ -49,6 +53,10 @@ export const RightContainer = styled.div`
 export const RightTitle = styled.h1`
     font-size: 50px;
     text-align: center;
+
+    @media (max-width: 800px) {
+        font-size: 35px;
+    }
 `;
 
 export const RightSubContainer = styled.div``;
